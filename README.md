@@ -1,4 +1,9 @@
-## Hi there 👋
+## 안녕하세요. 영남대학교 컴퓨터공학 전공 22013987 판훙녠학생입니다.
+
+Java와 Android개발을 중심으로 공부하고 있으며, 가계부 앱 프로젝트를 직접 구현한 경험이 있습니다.
+
+백엔드 개발과 시스템 설계에 관심이 많고, 꾸준히 실력을 향상시키고 있습니다.
+
 
 <!--
 **windtalkers12/windtalkers12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
